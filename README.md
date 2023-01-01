@@ -9,4 +9,4 @@
 # Score board
 ![](https://github.com/khludnegm/Python/blob/main/score.gif)
 # Nuclear reactor
-![](https://github.com/khludnegm/Python/blob/main/nuclear.gif)
+![]()
