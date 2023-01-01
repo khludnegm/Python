@@ -6,3 +6,5 @@
 # Calculator
 ![](https://github.com/khludnegm/Python/blob/main/s_calc.gif)
 ![](https://github.com/khludnegm/Python/blob/main/p_calc.gif)
+# Score board
+![](https://github.com/khludnegm/Python/blob/main/score.gif)
