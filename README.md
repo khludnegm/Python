@@ -1,6 +1,6 @@
 # Python
 # Arrow
-![](https://github.com/khludnegm/Python/blob/main/arrow.gif)
+![](https://github.com/khludnegm/Python/blob/main/arrow%20(2).gif)
 # ITI store
 ![](https://github.com/khludnegm/Python/blob/main/grocerry_store.gif)
 # Calculator
